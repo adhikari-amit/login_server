@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "amit",
-    "password": "Amit@2022",
-    "database": "CanIGo",
-    "host": "127.0.0.1",
+    "username": "URyWNABziC",
+    "password": "xvzPDhM7oe",
+    "database": "URyWNABziC",
+    "host": "remotemysql.com",
     "dialect": "mysql"
   },
   "test": {
